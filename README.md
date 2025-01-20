@@ -8,7 +8,7 @@
 ## Examples
 
 - [x] [AsciiJSON](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-ascii-json)
-- [ ] Bind form-data request with custom struct
+- [x] [Bind form-data request with custom struct](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-bind-form-data-request-with-custom-struct)
 - [ ] Bind html checkboxes
 - [ ] Bind query string or post data
 - [ ] Bind Uri

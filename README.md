@@ -10,7 +10,7 @@
 - [x] [AsciiJSON](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-ascii-json)
 - [x] [Bind form-data request with custom struct](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-bind-form-data-request-with-custom-struct)
 - [ ] Bind html checkboxes
-- [ ] Bind query string or post data
+- [x] [Bind query string or post data](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-bind-query-or-post)
 - [ ] Bind Uri
 - [ ] Build a single binary with templates
 - [ ] Controlling Log output coloring

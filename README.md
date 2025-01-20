@@ -11,7 +11,7 @@
 - [x] [Bind form-data request with custom struct](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-bind-form-data-request-with-custom-struct)
 - [ ] Bind html checkboxes
 - [x] [Bind query string or post data](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-bind-query-or-post)
-- [ ] Bind Uri
+- [x] [Bind Uri](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-bind-uri)
 - [ ] Build a single binary with templates
 - [ ] Controlling Log output coloring
 - [ ] Custom HTTP configuration

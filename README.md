@@ -16,7 +16,7 @@
 - [ ] Controlling Log output coloring
 - [ ] Custom HTTP configuration
 - [x] [Custom log file](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-log-format)
-- [ ] Custom Middleware
+- [x] [Custom Middleware](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-middleware)
 - [ ] Custom validators
 - [ ] Define format for the log of routes
 - [ ] Goroutines inside a middleware

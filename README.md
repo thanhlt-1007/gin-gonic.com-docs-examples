@@ -15,7 +15,7 @@
 - [ ] Build a single binary with templates
 - [ ] Controlling Log output coloring
 - [ ] Custom HTTP configuration
-- [ ] Custom log file
+- [x] [Custom log file](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-log-format)
 - [ ] Custom Middleware
 - [ ] Custom validators
 - [ ] Define format for the log of routes

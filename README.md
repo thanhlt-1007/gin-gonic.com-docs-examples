@@ -22,7 +22,7 @@
 - [x] [Goroutines inside a middleware](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-goroutines-inside-a-middleware)
 - [ ] Graceful restart or stop
 - [x] [Grouping routes](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-grouping-routes)
-- [ ] How to write log file
+- [x] [How to write log file](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-write-log)
 - [ ] HTML rendering
 - [ ] HTTP2 server push
 - [ ] JSONP

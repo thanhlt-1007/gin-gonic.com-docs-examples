@@ -21,7 +21,7 @@
 - [x] [Define format for the log of routes](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-define-format-for-the-log-of-routes)
 - [x] [Goroutines inside a middleware](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-goroutines-inside-a-middleware)
 - [ ] Graceful restart or stop
-- [ ] Grouping routes
+- [x] [Grouping routes](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-grouping-routes)
 - [ ] How to write log file
 - [ ] HTML rendering
 - [ ] HTTP2 server push

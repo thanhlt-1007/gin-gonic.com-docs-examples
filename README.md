@@ -18,7 +18,7 @@
 - [x] [Custom log file](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-log-format)
 - [x] [Custom Middleware](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-middleware)
 - [x] [Custom validators](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-validators)
-- [ ] Define format for the log of routes
+- [x] [Define format for the log of routes](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-define-format-for-the-log-of-routes)
 - [ ] Goroutines inside a middleware
 - [ ] Graceful restart or stop
 - [ ] Grouping routes

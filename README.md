@@ -19,7 +19,7 @@
 - [x] [Custom Middleware](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-middleware)
 - [x] [Custom validators](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-custom-validators)
 - [x] [Define format for the log of routes](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-define-format-for-the-log-of-routes)
-- [ ] Goroutines inside a middleware
+- [x] [Goroutines inside a middleware](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-goroutines-inside-a-middleware)
 - [ ] Graceful restart or stop
 - [ ] Grouping routes
 - [ ] How to write log file

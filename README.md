@@ -39,7 +39,7 @@
 - [ ] Redirects
 - [ ] Run multiple service
 - [ ] SecureJSON
-- [ ] Security Headers
+- [x] [Security Headers](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-security-headers)
 - [ ] Serving data from reader
 - [ ] Serving static files
 - [ ] Set and get a cookie

@@ -32,7 +32,7 @@
 - [x] [Multipart/Urlencoded form](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-multipart-urlencoded-form)
 - [ ] Multitemplate
 - [x] [Only bind query string](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-only-bind-query-string)
-- [ ] Parameters in path
+- [x] [Parameters in path](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-param-in-path)
 - [ ] PureJSON
 - [ ] Query and post form
 - [ ] Query string parameters

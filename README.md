@@ -34,7 +34,7 @@
 - [x] [Only bind query string](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-only-bind-query-string)
 - [x] [Parameters in path](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-param-in-path)
 - [ ] PureJSON
-- [ ] Query and post form
+- [x] [Query and post form](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-query-and-post-form)
 - [ ] Query string parameters
 - [ ] Redirects
 - [ ] Run multiple service

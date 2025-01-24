@@ -35,7 +35,7 @@
 - [x] [Parameters in path](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-param-in-path)
 - [ ] PureJSON
 - [x] [Query and post form](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-query-and-post-form)
-- [ ] Query string parameters
+- [x] [Query string parameters](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-querystring-param)
 - [ ] Redirects
 - [ ] Run multiple service
 - [ ] SecureJSON

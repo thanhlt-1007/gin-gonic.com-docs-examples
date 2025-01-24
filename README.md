@@ -29,7 +29,7 @@
 - [x] [Map as querystring or postform parameters](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-map-as-querystring-or-postform)
 - [x] [Model binding and validation](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-binding-and-validation)
 - [x] [Multipart/Urlencoded binding](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-multipart-urlencoded-binding)
-- [ ] Multipart/Urlencoded form
+- [x] [Multipart/Urlencoded form](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-multipart-urlencoded-form)
 - [ ] Multitemplate
 - [ ] Only bind query string
 - [ ] Parameters in path

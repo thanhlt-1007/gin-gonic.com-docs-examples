@@ -27,7 +27,7 @@
 - [ ] HTTP2 server push
 - [ ] JSONP
 - [x] [Map as querystring or postform parameters](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-map-as-querystring-or-postform)
-- [ ] Model binding and validation
+- [x] [Model binding and validation](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-binding-and-validation)
 - [ ] Multipart/Urlencoded binding
 - [ ] Multipart/Urlencoded form
 - [ ] Multitemplate

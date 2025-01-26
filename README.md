@@ -48,7 +48,7 @@
 - Upload files
   - [x] [Multiple files](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-upload-file-multiple-file)
   - [x] [Single file](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-upload-file-single-file)
-- [ ] Using BasicAuth middleware
+- [x] [Using BasicAuth middleware](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-using-basicauth-middleware)
 - [ ] Using HTTP method
 - [ ] Using middleware
 - [ ] Without middleware by default

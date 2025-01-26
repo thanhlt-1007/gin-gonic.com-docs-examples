@@ -45,7 +45,9 @@
 - [x] [Set and get a cookie](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-cookie)
 - [ ] Support Let's Encrypt
 - [ ] Try to bind body into different structs
-- [ ] Upload files
+- Upload files
+  - [ ] Multiple files
+  - [x] [Single file](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-upload-file-single-file)
 - [ ] Using BasicAuth middleware
 - [ ] Using HTTP method
 - [ ] Using middleware

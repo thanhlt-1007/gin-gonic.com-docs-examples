@@ -42,7 +42,7 @@
 - [x] [Security Headers](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-security-headers)
 - [ ] Serving data from reader
 - [ ] Serving static files
-- [ ] Set and get a cookie
+- [x] [Set and get a cookie](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-cookie)
 - [ ] Support Let's Encrypt
 - [ ] Try to bind body into different structs
 - [ ] Upload files

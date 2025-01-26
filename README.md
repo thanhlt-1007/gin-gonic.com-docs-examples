@@ -46,7 +46,7 @@
 - [ ] Support Let's Encrypt
 - [ ] Try to bind body into different structs
 - Upload files
-  - [ ] Multiple files
+  - [x] [Multiple files](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-upload-file-multiple-file)
   - [x] [Single file](https://github.com/thanhlt-1007/gin-gonic.com-docs-examples-upload-file-single-file)
 - [ ] Using BasicAuth middleware
 - [ ] Using HTTP method
